@@ -75,6 +75,44 @@ For detailed API documentation, visit the `/api-docs` endpoint after running the
 6. Add all environment variables from .env.example
 7. Deploy!
 
+
+## Project Preview
+
+<table>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (268).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (276).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (269).png" alt="Landing" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (270).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (271).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (272).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (273).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (274).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="/screenshot/Screenshot (275).png" alt="Admin" width="800" height="400"></td>
+  </tr>
+    
+ 
+</table>
+
 ## License
 
 This project is licensed under the ISC License.
